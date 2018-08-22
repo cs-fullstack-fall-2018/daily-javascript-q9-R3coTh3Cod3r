@@ -30,7 +30,7 @@ While reviewing another developer's code, you come across the following:
 What will be displayed when you review this code in the browser?
 
 Choose the correct answer
-
+the answer is 4
 1) John
 2) no index
 3) Doe
